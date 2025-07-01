@@ -14,6 +14,7 @@ class factorial
     // factorial method
     static int Factorial(int num)
     {
+        // base case
         if (num <= 1)
         {
             return 1;
